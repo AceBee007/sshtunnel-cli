@@ -61,4 +61,4 @@ Close one:	-->{pid or local_port}
 Close several:	-->{pid1} {pid2} {local_port1}...(space split)
 Close all:	-->"all"
 ```
-Leave empty to cancel the action, type one or several pid or local_port used for tunnel, type "all" to close all the tunnel.
+Leave empty to cancel the action, type one or several pid or local_port used for tunnel to close them, type "all" to close all the tunnel.
